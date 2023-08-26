@@ -1,0 +1,23 @@
+p{
+    color: red;
+    
+    font-size: 18px;
+}
+h1{
+    color: rgb(15, 245, 19) ;
+}
+h3{
+    color: rgb(0, 179, 255);
+}
+body{
+    background-color: pink;
+}
+.p1{
+    color: aquamarine;
+    font-size: 25px;
+}
+.ownerimg{
+    border-radius: 60%;
+    height: 200px;
+    width: 200px;
+}
